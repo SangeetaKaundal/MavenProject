@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21779" started-at="2021-09-13T12:42:33 IST" finished-at="2021-09-13T12:42:55 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21779" started-at="2021-09-13T12:42:33 IST" finished-at="2021-09-13T12:42:55 IST">
+      <class name="Login">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:Login@42d8062c]" name="launchBrowser" duration-ms="21676" started-at="2021-09-13T12:42:33 IST" finished-at="2021-09-13T12:42:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+      </class> <!-- Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
